@@ -6,7 +6,7 @@ var w = c.width = window.innerWidth,
 		hh = h / 2,
 		
 		opts = {
-			strings: ['Wish You Many more', 'HAPPY', 'Returns of the Day','Abbu💙' ],
+			strings: ['Wish You Many more', 'HAPPY', 'Returns of the Day','Abbu' ],
 			charSize: 30,
 			charSpacing: 35,
 			lineHeight: 40,
